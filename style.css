@@ -1,0 +1,97 @@
+.gradient-background {
+  background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.icon-square {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 0.75rem;
+}
+
+.profile-img {
+  border-radius: 50%;
+  height: 100px;
+}
+h1 {
+ 
+  
+  font-size: 3rem;
+  color: #000000;
+  margin-top: 250px;
+  margin-left: 200px;
+   
+}
+
+#button1{
+  margin-left: 250px;
+
+}
+
+#button2{
+  margin-left: 10px;
+}
+
+#iphone{
+  padding-left: 300px;
+}
+
+#dog{ 
+  
+  height: 100px;
+  border-radius: 350%;
+  margin-top:50px ;
+  margin-left: 600px;
+  margin-bottom:2px ;
+ 
+}
+
+h2{
+  margin-left: 100px;
+}
+
+#Pebbles{
+  margin-left: 600px;
+}
+
+.press-img{
+  
+  height: 30px;
+}
+
+#tc{
+  margin-left: 50px;
+}
+
+.testimonial{
+  background-color: #ff4c68;
+  margin-bottom: 20px;
+}
+
+#plan{
+  margin-top: 40px;
+  margin-left: 400px;
+}
+
+#pl{
+  margin-top: 40px;
+  margin-left: 500px;
+
+}
+
+
+
+   
